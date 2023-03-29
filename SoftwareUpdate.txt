@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Tracker: clean up GMC (#8003)
