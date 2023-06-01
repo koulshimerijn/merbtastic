@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Update format.yml to pull_request_target (#7460)
