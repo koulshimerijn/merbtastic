@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Updated SQL Query Plot Code (#8120)
