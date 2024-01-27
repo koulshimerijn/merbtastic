@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Batch inference fixes (#8854)
